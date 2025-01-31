@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fort Fab - Blog</title><link href="https://fort.kury.dev/" rel="alternate"></link><link href="https://fort.kury.dev/feeds/blog.atom.xml" rel="self"></link><id>https://fort.kury.dev/</id><updated>2025-01-31T13:44:00-05:00</updated><entry><title>First Blog Post</title><link href="https://fort.kury.dev/first-post.html" rel="alternate"></link><published>2025-01-31T13:44:00-05:00</published><updated>2025-01-31T13:44:00-05:00</updated><author><name>Fabrício Kury</name></author><id>tag:fort.kury.dev,2025-01-31:/first-post.html</id><summary type="html">&lt;p&gt;This is my first post using Pelican and GitHub Pages!&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is my first post. It contains header and content.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is bold text.&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;This is&lt;/li&gt;
+&lt;li&gt;a numbered&lt;/li&gt;
+&lt;li&gt;list&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Blog"></category><category term="pelican"></category><category term="github-pages"></category></entry></feed>
